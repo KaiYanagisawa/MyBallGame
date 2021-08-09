@@ -1,0 +1,4 @@
+#Mon Jun 28 11:13:49 JST 2021
+base.0=/Users/yanagisawakai/Downloads/MyBallGame/Temp/gradleOut/launcher/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
